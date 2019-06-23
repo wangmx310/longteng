@@ -1,0 +1,1 @@
+{"methon": "post", "url": "http://115.28.108.130:8080/gasStation/process", "json": {"dataSourceId": "bHRz", "methodId": "00A", "CardInfo": {"cardNumber": 123456}}}
