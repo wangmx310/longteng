@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4305c1ac-762c-4811-babd-abb486209ba6" name="Default Changelist" comment="" />
+    <list default="true" id="4305c1ac-762c-4811-babd-abb486209ba6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="180">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
                 <element signature="e#1#16#0" expanded="true" />
               </folding>
@@ -47,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/data.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -144,8 +147,8 @@
         <option value="$PROJECT_DIR$/tests/apitest/fule_card_ddt/test_excel.py" />
         <option value="$PROJECT_DIR$/utils/path.py" />
         <option value="$PROJECT_DIR$/utils/data.py" />
-        <option value="$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py" />
         <option value="$PROJECT_DIR$/data/data.yaml" />
+        <option value="$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py" />
       </list>
     </option>
   </component>
@@ -189,6 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/apitest/fule_card_ddt" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -328,12 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560663400783</updated>
       <workItem from="1560663402104" duration="14783000" />
-      <workItem from="1561179892345" duration="19968000" />
+      <workItem from="1561179892345" duration="22031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34751000" />
+    <option name="totallyTimeSpent" value="36814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -556,20 +560,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="65" />
-          <folding>
-            <element signature="e#1#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/data.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="78" lean-forward="true" selection-start-column="78" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/apitest/fule_card/test_add_fule_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

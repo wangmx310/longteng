@@ -10,6 +10,7 @@ data = ['1994031001', 'abcqwe', '123abc', '3848#wdd', '添加卡号', '']
 data1 = ['19940310', '19940310001', '1994031002','19940310003', '19940310005']
 
 @pytest.mark.smoke
+@pytest.mark.p0
 @pytest.mark.parametrize('card_number', data)
 #@pytest.mark.skipif(db.check_card('1234556'),'卡号已存在')  #环境检查
 def test_add_fule_card0(card_number, db):
